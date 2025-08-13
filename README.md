@@ -4,7 +4,6 @@ A SwiftUI extension that offers custom gradients and blur effects for creating s
 
 ## Overview
 
-UnionMaterials combines powerful visual effect libraries for SwiftUI:
 - **[Gradients](Sources/UnionMaterials/Gradients/README.md)**: Various gradients (i.e exponential and smooth) for more natural-looking color transitions
 - **[Blurs](Sources/UnionMaterials/Blurs/README.md)**: Various blur effects including progressive blurs and backdrop views
 
@@ -28,10 +27,6 @@ dependencies: [
 ```
 
 Or add it directly in Xcode using File > Add Packages...
-
-## Usage
-- **[Gradients Usage](Sources/UnionMaterials/Gradients/README.md)**
-- **[Blurs Usage](Sources/UnionMaterials/Blurs/README.md)**
 
 ## Components
 
