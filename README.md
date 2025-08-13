@@ -37,6 +37,7 @@ Or add it directly in Xcode using File > Add Packages...
 ### Blur Components
 - `BlurView`: Standard blur view with customizable intensity
 - `ProgressiveBlurView`: Variable intensity blur across the view
+- `InvisibleMaterial`: Custom material with varying blur and opacity
 
 ## License
 
